@@ -1,3 +1,4 @@
 config_secret_keys.json
 .DS_Store
 *.pyc
+db.sqlite3
